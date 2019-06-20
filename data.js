@@ -1,6 +1,6 @@
 var data = {
     user: {
-        name: "",
+        name: "Jimmy",
         age: 20,
         date: ""
     },
